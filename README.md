@@ -8,7 +8,7 @@
 
 ## 💡 About Me
 I’m a **Data Scientist specializing in Generative AI and LLM-based systems**, passionate about transforming data and language models into intelligent, production-ready solutions.  
-My experience spans **Banking (Bank of America)**, **Retail (Walmart/Sam’s Club)**, and **Government (GSFC)** sectors, where I’ve designed scalable AI pipelines, RAG systems, and explainable ML models.
+My experience spans **Government (GSFC)**, **Retail (Walmart/Sam’s Club)**, **Banking (Bank of America)**, and **Cognizant (Insurance and Healthcare)** sectors, where I’ve designed scalable AI pipelines, RAG systems, and explainable ML models.
 
 Currently, I’m pursuing the **GenAI Pinnacle Plus Program**, expanding expertise in:
 - LLMs & LLMOps  
@@ -49,7 +49,8 @@ Each notebook explores a practical use case, model comparison, or experiment ins
 ## 🧩 GitHub Stats
 
 ![Rishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=rk2100994&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rk2100994&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rk2100994&layout=compact&theme=radical&exclude_repo=cpp-demo,old-project,java-tests)
+
 
 ---
 
