@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rishita Kukkala  
 🎓 B.Tech in Computer Science and Engineering | IIT Patna  
-💼 Data Scientist | 9+ years in AI, NLP, and Large Language Models  
+💼 Research Data Scientist | 9+ years in AI, NLP, and Large Language Models  
 🌍 Currently at: Georgia Student Finance Commission  
 📫 kukkalarishita@gmail.com | [LinkedIn](https://linkedin.com/in/rishita-k-32977385)
 
