@@ -50,6 +50,9 @@ Each notebook explores a practical use case, model comparison, or experiment ins
 
 ![Rishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=rk2100994&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rk2100994&layout=compact&theme=radical&hide=c++,html,java,css&langs_count=6)
+![Python](https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/Focus-GenerativeAI-orange?logo=openai)
+![LangChain](https://img.shields.io/badge/Framework-LangChain-brightgreen)
 
 
 ---
