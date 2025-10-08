@@ -49,7 +49,6 @@ Each notebook explores a practical use case, model comparison, or experiment ins
 ## 🧩 GitHub Stats
 
 ![Rishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=rk2100994&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rk2100994&layout=compact&theme=radical&hide=c++,html,java,css&langs_count=6)
 
 ---
 
