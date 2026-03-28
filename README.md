@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Rishita Kukkala  
 🎓 B.Tech in Computer Science and Engineering | IIT Patna  
-💼 Research Data Scientist | 9+ years in AI, NLP, and Large Language Models  
+💼 Lead AI Engineer | 10+ years in AI, ML, NLP, GenAI, and Large Language Models  
 🌍 Currently at: Georgia Student Finance Commission  
 📫 kukkalarishita@gmail.com | [LinkedIn](https://linkedin.com/in/rishita-k-32977385)
 
 ---
 
 ## 💡 About Me
-I’m a **Data Scientist specializing in Generative AI and LLM-based systems**, passionate about transforming data and language models into intelligent, production-ready solutions.  
-My experience spans **Government (GSFC)**, **Retail (Walmart/Sam’s Club)**, **Banking (Bank of America)**, and **Cognizant (Insurance and Healthcare)** sectors, where I’ve designed scalable AI pipelines, RAG systems, and explainable ML models.
+I’m an AI Engineer specializing in Generative AI and LLM-based systems**, passionate about transforming data and language models into intelligent, production-ready solutions.  
+My experience spans **Government (GSFC)**, **Retail (Walmart/Sam’s Club)**, **Banking (Bank of America)**, and **Cognizant (Insurance and Healthcare)** sectors, where I’ve designed scalable AI pipelines, RAG systems, Agentic AI and explainable ML models.
 
 Currently, I’m pursuing the **GenAI Pinnacle Plus Program**, expanding expertise in:
 - LLMs & LLMOps  
